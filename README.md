@@ -1,8 +1,24 @@
-# React + Vite
+TextUtility App 📝
+TextUtility App is a simple and powerful text processing tool that helps users manipulate text efficiently. It offers various text formatting, conversion, and analysis features to enhance productivity.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+✨ Features:
+✔ Text Transformation – Convert text to uppercase, lowercase, capitalize, etc.
+✔ Word & Character Count – Get instant word and character count.
+✔ Remove Extra Spaces – Clean unwanted spaces from text.
+✔ Copy to Clipboard – Easily copy modified text.
+✔ Dark Mode Support – Toggle between light and dark modes.
+✔ New Feature: Contact Us – Now, users can easily send messages via the contact form.
 
-Currently, two official plugins are available:
+📩 Contact Us Feature:
+We have added a "Contact Us" feature where users can submit queries, feedback, or suggestions. The form supports:
+✅ Name, Email, Phone Number, and Message fields.
+✅ Smooth and responsive UI.
+✅ Secure submission via Web3Forms API.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🔧 Technologies Used:
+React.js
+HTML, CSS, JavaScript
+Web3Forms API (for Contact Us feature)
+
+📬 Get in Touch:
+If you have any queries or suggestions, feel free to reach out through the Contact Us form in the app! 🚀
