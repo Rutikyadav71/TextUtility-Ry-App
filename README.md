@@ -27,5 +27,9 @@ We have added a **"Contact Us"** feature where users can submit queries, feedbac
 ## 📬 Get in Touch
 If you have any queries or suggestions, feel free to reach out through the **Contact Us** form in the app! 🚀  
 
+## 🌐 Demo
+[Live Demo](https://text-utility-ry-app.vercel.app/)
+
+
 
 
